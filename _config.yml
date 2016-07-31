@@ -1,0 +1,28 @@
+name: The English Underground
+favicon: null
+layout_spectrum: 0.8636443379800767
+typography_spectrum: 0.44253649236634374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15086498786695302
+  lightness: 0.19332239660434425
+  saturation: 0.4856991325505078
+  rhythmicContrast: 0.9944027264136821
+purpose: []
